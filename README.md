@@ -1,6 +1,5 @@
 # GIFs-for-school
 
-![Aim and Shoot for Peggle ](/Aim%20&%20Shoot%20-%20GDV%20Peggle.gif)
+![Aim and Shoot for Peggle](/GIFS/Aim%20&%20Shoot%20-%20GDV%20Peggle.gif)
 
-![Arrays](/List&-&GDV&non-Peggle.gif)
-
+![Arrays](/GIFS/List%20-%20GDV%20non-Peggle.gif)
