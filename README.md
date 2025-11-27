@@ -7,3 +7,4 @@
 
 ![Arrays](/GIFS/List%20-%20GDV%20non-Peggle.gif)
 ### 1.a; we were supposed to make 2 inputs; enter returns a random item and escape returns all
+### code: https://github.com/QO-O/M1-GDV.git
