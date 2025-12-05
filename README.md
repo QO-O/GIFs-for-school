@@ -1,5 +1,11 @@
 # GIFs-for-school
 
+
+![Score Manager](/GIFS/ScoreManager.gif) 
+## Score Management
+### I added a script that counts up score, and deletes the peggle when it's hit 4 times
+### https://github.com/QO-O/PeggleProject.git
+
 ![Forces And Collisions](/GIFS/AddForce.gif)
 ## Forces & Collision
 ### What and how did you make? I added scripts to be able to shoot, and added targets with collision. I think this was one of the easiest assignments and I barely struggled.
